@@ -1,10 +1,4 @@
 ################################################################################
-# Python Virtual Environment
-myvenv/
-
-
-
-################################################################################
 ## gitignore for MATLAB
 ## from https://github.com/github/gitignore/blob/master/Global/Matlab.gitignore
 
